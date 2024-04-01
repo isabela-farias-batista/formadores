@@ -16,3 +16,33 @@
     margin: 0 25px;
     font-size: 22px;
 }
+
+* {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+.apresentacao-imagem{
+    width: 25%;
+}
+
+.apresentacao{
+    background-image: linear-gradient(#960000,#A47F7F);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.apresentacao-titulo{
+    padding: 24px 0;
+}
+
+.apresentacao-texto-um{
+    padding: 24px 0;
+}
+
+.apresentacao-div-conteudo{
+    width: 49%;
+}
