@@ -92,3 +92,13 @@ footer{
     padding: 15px 0;
     text-align: center;
 }
+
+.rodape-whatsapp{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.imagem-rodape{
+    padding: 0 5px;
+}
